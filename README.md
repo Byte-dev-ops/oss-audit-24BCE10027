@@ -137,7 +137,3 @@ Date   : 29 March 2026
 Working on this audit made me more confident with Linux and Bash scripting. What initially seemed complex became manageable once broken into smaller steps using loops, variables, and conditions.
 
 Git, as an open-source tool, represents the power of community-driven development. This project helped me appreciate not just how tools work, but why they exist.
-
----
-
-⭐ *“Open source is not just code — it’s a philosophy of sharing and building together.”*
